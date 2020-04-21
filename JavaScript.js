@@ -1,4 +1,12 @@
+// Detect mobile user
 
+function isMobile() {
+return /(phone Ipad|pod I iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec IwOSBrowser|BrowserNG IWebos ISymbian|Windows Phone)/i.test(navigator.userAgent)
+}
+
+if(isMobile()){
+    window.location.href = 'https://bluegarian-tech-archives.github.io/Mobile-Redirect/'
+}
 
 
 
