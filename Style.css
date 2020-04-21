@@ -41,6 +41,10 @@ body {
     text-align: center;
 }
 
+hr {
+width: 180%;
+}
+
 .warning {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
@@ -68,10 +72,10 @@ body {
     border-style: solid;
     border-color: rgb(0, 20, 196);
     background-color: rgb(0, 255, 213);
-    font-size: 25px;
+    font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(0, 20, 196);
-    padding: 6px 16px;
+    padding: 4px 14px;
 }
 
 .rickRollButton:hover {
@@ -88,7 +92,7 @@ body {
 
 .tableText {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 25.5px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -182,15 +186,6 @@ body {
     color: white;
 }
 
-
-
-
-
-
-
-
-
-
 .footer {
     position: fixed;
     left: 0;
@@ -198,7 +193,7 @@ body {
     width: 100%;
     background-color: rgb(0, 50, 187);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 15px;
+    font-size: 16px;
     color: white;
     text-align: center;
 }
