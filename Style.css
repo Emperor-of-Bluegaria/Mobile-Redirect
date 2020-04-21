@@ -34,7 +34,7 @@ body {
 
 .headerTextCentered {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 35px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 255, 255);
@@ -43,7 +43,7 @@ body {
 
 .warning {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 35px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 230, 0);
@@ -53,7 +53,7 @@ body {
 
 .defaultTextCentered {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -153,8 +153,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 920px;
-  height: 691px;
+  width: 720px;
+  height: 491px;
   border-color: rgb(0, 41, 155);
   border: 12px;
   border-style: dashed;
