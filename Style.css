@@ -42,7 +42,7 @@ body {
 }
 
 hr {
-width: 180%;
+width: 220%;
 }
 
 .warning {
@@ -92,7 +92,7 @@ width: 180%;
 
 .tableText {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25.5px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
