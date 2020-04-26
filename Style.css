@@ -26,7 +26,7 @@ body {
 
 .headerTextNormal {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 255, 255);
@@ -34,7 +34,7 @@ body {
 
 .headerTextCentered {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 255, 255);
@@ -42,12 +42,12 @@ body {
 }
 
 hr {
-width: 220%;
+width: 100%;
 }
 
 .warning {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 17px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 230, 0);
@@ -57,14 +57,14 @@ width: 220%;
 
 .defaultTextCentered {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
 
 .defaultTextNormal {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
 }
 
@@ -72,10 +72,10 @@ width: 220%;
     border-style: solid;
     border-color: rgb(0, 20, 196);
     background-color: rgb(0, 255, 213);
-    font-size: 20px;
+    font-size: 14px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(0, 20, 196);
-    padding: 4px 14px;
+    padding: 2px 12px;
 }
 
 .rickRollButton:hover {
@@ -140,9 +140,12 @@ width: 220%;
     border-color: rgb(36, 131, 255);
 }
 
-
-
-
+audio {
+width: 350px;
+}
+audio{
+height: 50px;
+}
 
 
 .smallFont {
@@ -157,10 +160,10 @@ width: 220%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 720px;
-  height: 491px;
+  width: 320px;
+  height: 191px;
   border-color: rgb(0, 41, 155);
-  border: 12px;
+  border: 9px;
   border-style: dashed;
 }
 
@@ -178,7 +181,7 @@ width: 220%;
 .musicText {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 30px;
+    font-size: 21px;
     font-weight: bold;
     text-decoration: underline;
 }

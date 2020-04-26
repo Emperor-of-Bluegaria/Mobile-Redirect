@@ -1,3 +1,7 @@
+//First thing
+mobileMsg = 'Notification: You have been detected using a mobile phone, automatically redirected you to mobile site';
+alert(mobileMsg);
+
 //Display in console
 deathMsg="WARNING: YOU HAVE BEEN DETECTED ATTEMPTING TO ACCESS THE FILES ON THIS ARCHIVE WITHOUT OFFICIAL APRROVAL. MTF TEAM DEPLOYED. SAY YOUR LAST WORDS.";
 
