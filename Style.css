@@ -57,14 +57,14 @@ width: 100%;
 
 .defaultTextCentered {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 17px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
 
 .defaultTextNormal {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 17px;
     color: rgb(255, 255, 255);
 }
 
@@ -141,7 +141,7 @@ width: 100%;
 }
 
 audio {
-width: 350px;
+width: 325px;
 }
 audio{
 height: 50px;
@@ -161,7 +161,7 @@ height: 50px;
   margin-left: auto;
   margin-right: auto;
   width: 320px;
-  height: 191px;
+  height: 215px;
   border-color: rgb(0, 41, 155);
   border: 9px;
   border-style: dashed;
@@ -196,7 +196,7 @@ height: 50px;
     width: 100%;
     background-color: rgb(0, 50, 187);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 14px;
     color: white;
     text-align: center;
 }

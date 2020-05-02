@@ -30,7 +30,7 @@ function stopRickRoll() {
 */
 
 function stopRickRoll() {
-    alert('ERROR: Rick Roll has been removed from the site for now due to unofficial impression. This button is currently rendered useless.');
+    alert('ERROR: The Rick Roll has been removed from the site for now due to unofficial impression. This button is currently rendered useless.');
 }
 
 
